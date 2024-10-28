@@ -1,4 +1,4 @@
-#README
+# README
 
 This code analyze SEM image and count the average diameter, the standard deviation of diameter, and the number of sphere particles.
 
